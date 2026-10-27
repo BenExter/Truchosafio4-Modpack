@@ -3,5 +3,26 @@
   "event": "Truchosafío 4",
   "minecraft": "1.21.1",
   "loader": "fabric",
-  "files": []
+  "files": [
+    {
+      "path": "config/bingoruleta_cliente.json",
+      "url": "https://github.com/BenExter/Truchosafio4-Modpack/releases/download/pack-20261027-235158-05f83a/config__bingoruleta_cliente.json",
+      "sha256": "96a377066a934b9b4064cc0f71982ebd995f71117e00c1044597f4e5a32fbef8"
+    },
+    {
+      "path": "mods/BingoRuletaByNavithLabs-1.0.2-1.21.1.jar",
+      "url": "https://github.com/BenExter/Truchosafio4-Modpack/releases/download/pack-20261027-235158-05f83a/mods__BingoRuletaByNavithLabs-1.0.2-1.21.1.jar",
+      "sha256": "9769eaec4e40123b5160c08531e72ab815e4f539bf22da2b8c9af4331fff2b50"
+    },
+    {
+      "path": "mods/fabric-api-0.116.17+1.21.1.jar",
+      "url": "https://github.com/BenExter/Truchosafio4-Modpack/releases/download/pack-20261027-235158-05f83a/mods__fabric-api-0.116.17%2B1.21.1.jar",
+      "sha256": "79ac44b40780acbd884b34c50be1e39af682847e5f5cb3b1fddeeaa768dce800"
+    },
+    {
+      "path": "mods/plasmovoice-fabric-1.21.1-2.2.0-beta.2.jar",
+      "url": "https://github.com/BenExter/Truchosafio4-Modpack/releases/download/pack-20261027-235158-05f83a/mods__plasmovoice-fabric-1.21.1-2.2.0-beta.2.jar",
+      "sha256": "33dd9fb88219097f5c91e9d2f18c38413e35307a637e461050ca7e533b55aada"
+    }
+  ]
 }
