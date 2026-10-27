@@ -1,0 +1,28 @@
+# Nunca subir al historial Git ni archivos pesados del modpack ni datos personales.
+publish/
+dist/
+*.log
+*.tmp
+*.bak
+*.zip
+*.jar
+*.exe
+.env
+.env.*
+__pycache__/
+.pytest_cache/
+.vscode/
+.idea/
+.DS_Store
+# Mundos y credenciales no pertenecen al paquete publico
+world/
+worlds/
+server.properties
+usercache.json
+ops.json
+whitelist.json
+banned-players.json
+banned-ips.json
+launcher.json
+accounts.json
+secrets.json
