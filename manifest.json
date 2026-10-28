@@ -6,22 +6,27 @@
   "files": [
     {
       "path": "config/arenaruleta_cliente.json",
-      "url": "https://github.com/BenExter/Truchosafio4-Modpack/releases/download/pack-20261028-205922-fcd2fa/config__arenaruleta_cliente.json",
+      "url": "https://github.com/BenExter/Truchosafio4-Modpack/releases/download/pack-20261028-231821-154b18/config__arenaruleta_cliente.json",
       "sha256": "85d9aaaf4c0c371aab204d1b5792bea54654aea97499badb62a6ff02f9bcf701"
     },
     {
-      "path": "mods/ArenaRuletaByNavithLabs-1.0.0-1.21.1.jar",
-      "url": "https://github.com/BenExter/Truchosafio4-Modpack/releases/download/pack-20261028-205922-fcd2fa/mods__ArenaRuletaByNavithLabs-1.0.0-1.21.1.jar",
-      "sha256": "df54201a7eba932703868523253c2fde705176cc94a55d765dec074337ece0a1"
+      "path": "mods/ArenaRuleta_Truchosafio4_FirmaDesactivada_1.21.1.jar",
+      "url": "https://github.com/BenExter/Truchosafio4-Modpack/releases/download/pack-20261028-231821-154b18/mods__ArenaRuleta_Truchosafio4_FirmaDesactivada_1.21.1.jar",
+      "sha256": "043a729537d797fa816712ac06262071ad7631eaa5f372216570e612e11bc939"
     },
     {
       "path": "mods/fabric-api-0.116.17+1.21.1.jar",
-      "url": "https://github.com/BenExter/Truchosafio4-Modpack/releases/download/pack-20261028-205922-fcd2fa/mods__fabric-api-0.116.17%2B1.21.1.jar",
+      "url": "https://github.com/BenExter/Truchosafio4-Modpack/releases/download/pack-20261028-231821-154b18/mods__fabric-api-0.116.17%2B1.21.1.jar",
       "sha256": "79ac44b40780acbd884b34c50be1e39af682847e5f5cb3b1fddeeaa768dce800"
     },
     {
+      "path": "mods/mobsaregone-2.0.4-fabric-1.21.1.jar",
+      "url": "https://github.com/BenExter/Truchosafio4-Modpack/releases/download/pack-20261028-231821-154b18/mods__mobsaregone-2.0.4-fabric-1.21.1.jar",
+      "sha256": "6e99dcd4fb4b8a6ce95769f9d14e507ab7c840484faeb163513e0c05418ea44e"
+    },
+    {
       "path": "mods/sodium-fabric-0.8.13+mc1.21.1.jar",
-      "url": "https://github.com/BenExter/Truchosafio4-Modpack/releases/download/pack-20261028-205922-fcd2fa/mods__sodium-fabric-0.8.13%2Bmc1.21.1.jar",
+      "url": "https://github.com/BenExter/Truchosafio4-Modpack/releases/download/pack-20261028-231821-154b18/mods__sodium-fabric-0.8.13%2Bmc1.21.1.jar",
       "sha256": "3d43c14985a4deb19c654aad3393b454cf57e1ebcbba86c4ae6a98dfc60eca2d"
     }
   ]
